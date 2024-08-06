@@ -1,0 +1,43 @@
+.background {
+  background-image: url("images/catimage.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.icon-square {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 0.75rem;
+}
+
+.profile-img {
+  height: 100px;
+  border-radius: 50%;
+}
+
+
+.edu-au-vic-wa-nt-hand {
+  font-family: "Edu AU VIC WA NT Hand", cursive;
+  font-optical-sizing: auto;
+  font-weight: 100px;
+  font-style: normal;
+}
+
+.img1 {
+  background-image: url("images/img1.png");
+  background-size: 100% 100%;
+}
+
+.img2 {
+background-image: url("images/img2.png");
+background-size: 100% 100%;
+}
+
+.img3 {
+  background-image: url("images/img3.png");
+  background-size: 100% 100%;
+  }
+
+  .about {
+    background-color: 	#DCDCDC10;
+  }
